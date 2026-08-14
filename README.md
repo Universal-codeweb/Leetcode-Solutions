@@ -28,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Universal-codeweb/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Universal-codeweb/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
